@@ -2,6 +2,12 @@
 
 Welcome to the React TodoList App repository! This repository contains a series of projects focused on building a TodoList application using React, Tailwind CSS, and React Icons.
 
+## Features
+- React App
+- Save Data In LocalStorage
+- Highly Optimised
+- Responsive
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
